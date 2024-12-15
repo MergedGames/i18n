@@ -19,7 +19,6 @@ jobs:
       with:
         node-version: '16'
 
-
     - name: Generate Translations
       run: node generator.js
 
