@@ -15,15 +15,13 @@ The `translations.generated.json` file organizes translations in a nested struct
 
 ```json
 {
-    "merged.party.create": {
-        "de": "Party erstellen",
-        "en": "Create party",
-        "fr": "Créer une partie",
-        "it": "Crea una partita",
-        "pl": "Utwórz grupę",
-        "ru": "Создать группу",
-        "zh": "创建队伍"
-    }
+    "de": "Party erstellen",
+    "en": "Create party",
+    "fr": "Créer une partie",
+    "it": "Crea una partita",
+    "pl": "Utwórz grupę",
+    "ru": "Создать группу",
+    "zh": "创建队伍"
 }
 ```
 
