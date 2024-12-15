@@ -1,0 +1,34 @@
+name: Generate and Upload Translations
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+
+    - name: Generate Translations
+      run: node generator.js
+
+    - name: Upload Translations
+      env:
+        UPLOAD_TOKEN: ${{ secrets.UPLOAD_TOKEN }}
+      run: |
+        curl -X POST https://object-storage.epilogue.team/upload/translations.json \
+          -H "Upload-Token: $UPLOAD_TOKEN" \
+          -H "Overwrite: true" \
+          -H "Content-Type: application/json" \
+          --data-binary @translations.generated.json
