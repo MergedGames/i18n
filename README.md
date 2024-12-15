@@ -17,7 +17,7 @@ The `languages.json` file organizes translations in a nested structure:
 
 ```json
 {
-    "party.create": {
+    "merged.party.create": {
         "de": "Party erstellen",
         "en": "Create party",
         "fr": "Créer une partie",
