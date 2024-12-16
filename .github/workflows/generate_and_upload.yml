@@ -9,7 +9,7 @@ on:
 jobs:
   generate-and-upload:
     runs-on: 
-      - self-hosted
+      - ubuntu
 
     steps:
     - name: Checkout Repository
