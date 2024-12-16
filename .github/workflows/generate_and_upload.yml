@@ -9,7 +9,7 @@ on:
 jobs:
   generate-and-upload:
     runs-on: 
-      - ubuntu
+      - ubuntu-latest
 
     steps:
     - name: Checkout Repository
