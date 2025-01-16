@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const inputFile = "translations.generated.json";
-const outputDir = "./reversed";
+const outputDir = "./merged";
 
 function ensureDirectoryExists(dirPath) {
   if (!fs.existsSync(dirPath)) {
