@@ -1,10 +1,10 @@
 {
     "de": "<red>Die Party wurde aufgelöst, weil der Party Leiter hat die Party verlassen hat.</red>",
     "en": "<red>The party was disbanded because the party leader left the party.</red>",
-    "fr": "<red>La partie a disparu car le leader de la partie a quitter la partie.</red>",
-    "it": "<red>La partita è stata disbandata perché il leader della partita ha lasciato la partita.</red>",
-    "pl": "<red>Grupa została rozłączona, ponieważ lider grupy opuścił grupę.</red>",
-    "ru": "<red>Группа была расформирована, поскольку лидер группы покинул группу.</red>",
-    "zh": "<red>队伍因队长离开队伍而解散。</red>",
-    "jp": "<red>グループは、グループリーダーがグループを離れたため解散しました。</red>"
+    "fr": "<red>Le groupe est fini parce que le chef est parti.</red>",
+    "it": "<red>Il gruppo si è sciolto perché il capo se n'è andato.</red>",
+    "pl": "<red>Grupa się rozpadła bo lider wyszedł.</red>",
+    "ru": "<red>Тусовка закончилась - главный ушёл.</red>",
+    "zh": "<red>队长跑了，队伍解散了。</red>",
+    "jp": "<red>リーダーが出てっちゃったからパーティー解散だよ。</red>"
 }

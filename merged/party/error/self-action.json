@@ -1,0 +1,10 @@
+{
+    "de": "<red>Du kannst diese Aktion nicht an dir selbst ausführen.</red>",
+    "en": "<red>You cannot perform this action on yourself.</red>",
+    "fr": "<red>Tu ne peux pas faire ça sur toi-même.</red>",
+    "it": "<red>Non puoi eseguire questa azione su te stesso.</red>",
+    "pl": "<red>Nie możesz wykonać tej akcji na sobie.</red>",
+    "ru": "<red>Ты не можешь выполнить это действие на себе.</red>",
+    "zh": "<red>你不能对自己执行此操作。</red>",
+    "jp": "<red>自分自身にはそれはできないよ。</red>"
+}

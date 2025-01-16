@@ -1,0 +1,10 @@
+{
+    "de": "<red>Dieser Spieler ist offline.</red>",
+    "en": "<red>This player is offline.</red>",
+    "fr": "<red>Ce joueur est hors ligne.</red>",
+    "it": "<red>Questo giocatore è offline.</red>",
+    "pl": "<red>Ten gracz jest offline.</red>",
+    "ru": "<red>Этот игрок не в сети.</red>",
+    "zh": "<red>该玩家已离线。</red>",
+    "jp": "<red>そのプレイヤーはオフラインだよ。</red>"
+}

@@ -1,10 +1,10 @@
 {
     "de": "<green>%s hat die Party beigetreten.</green>",
     "en": "<green>%s has joined the party.</green>",
-    "fr": "<green>%s a rejoindre la partie.</green>",
-    "it": "<green>%s ha partecipato alla partita.</green>",
-    "pl": "<green>%s dołacono do grupy.</green>",
-    "ru": "<green>%s присоединился к группе.</green>",
-    "zh": "<green>%s 加入队伍。</green>",
-    "jp": "<green>%s はグループに参加しました。</green>"
+    "fr": "<green>%s nous a rejoint!</green>",
+    "it": "<green>%s è entrato nel gruppo!</green>",
+    "pl": "<green>%s dołączył do nas!</green>",
+    "ru": "<green>%s присоединился к нам!</green>",
+    "zh": "<green>%s 加入啦！</green>",
+    "jp": "<green>%s が参加したよ！</green>"
 }

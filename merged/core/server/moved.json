@@ -1,10 +1,10 @@
 {
     "de": "Du wurdest auf %s verschoben.",
     "en": "You have been moved to %s.",
-    "fr": "Vous avez éteindre vers %s.",
-    "it": "Hai essere spostato su %s.",
-    "pl": "Byłeś przeniesiony do %s.",
-    "ru": "Ты был перемещен в %s.",
-    "zh": "你已被移动到 %s.",
-    "jp": "あなたは %s に移動しました。"
+    "fr": "Tu as été déplacé vers %s.",
+    "it": "Sei stato spostato su %s.",
+    "pl": "Zostałeś przeniesiony do %s.",
+    "ru": "Тебя переместили на %s.",
+    "zh": "你被移到了 %s。",
+    "jp": "%s に移動したよ。"
 }

@@ -1,0 +1,10 @@
+{
+    "de": "<red>Die Einladung ist abgelaufen.</red>",
+    "en": "<red>The party invite has expired.</red>",
+    "fr": "<red>L'invitation a expiré.</red>",
+    "it": "<red>L'invito è scaduto.</red>",
+    "pl": "<red>Zaproszenie wygasło.</red>",
+    "ru": "<red>Приглашение истекло.</red>",
+    "zh": "<red>邀请已过期。</red>",
+    "jp": "<red>招待の期限が切れちゃったよ。</red>"
+}

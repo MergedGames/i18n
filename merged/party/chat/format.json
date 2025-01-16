@@ -1,0 +1,10 @@
+{
+    "de": "<aqua>[Party] %s: %s</aqua>",
+    "en": "<aqua>[Party] %s: %s</aqua>",
+    "fr": "<aqua>[Groupe] %s: %s</aqua>",
+    "it": "<aqua>[Gruppo] %s: %s</aqua>",
+    "pl": "<aqua>[Grupa] %s: %s</aqua>",
+    "ru": "<aqua>[Тусовка] %s: %s</aqua>",
+    "zh": "<aqua>[队伍] %s: %s</aqua>",
+    "jp": "<aqua>[パーティー] %s: %s</aqua>"
+}
