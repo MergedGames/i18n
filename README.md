@@ -1,5 +1,5 @@
 ### Merged i18n
-
+# Warning! This repository has been transferred to https://git.eplg.services/mergedgames/i18n
 # Centralized Translation Repository
 
 This repository manages all multilingual translations for the project in a single JSON file: `translations.generated.json`. The centralized structure ensures consistency and simplifies updates by consolidating all languages in one place.
